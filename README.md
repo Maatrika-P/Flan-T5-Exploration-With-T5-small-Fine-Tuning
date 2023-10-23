@@ -20,6 +20,9 @@ This repository contains code and resources for an NLP project focused on text s
 - **all_scores_Flan-T5**: Keep the evaluation scores obtained using the Flan-T5 model.
 - **all_scores_T5-small**: Store evaluation scores after fine-tuning the T5-Small model.
 
+### SMA_Final_Report 📝
+- Consists of more details about teh scores and the dataset for better understanding
+
 ## Getting Started 🚀
 
 If you want to replicate the project or work with the provided code, follow these instructions:
