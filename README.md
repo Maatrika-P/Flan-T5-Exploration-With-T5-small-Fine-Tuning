@@ -31,6 +31,7 @@ If you want to replicate the project or work with the provided code, follow thes
 2. Explore the `Codes` directory to understand the project code and use cases.
 3. Use the `Datasets` directory to access the original and preprocessed data.
 4. Check the evaluation scores in the `Evaluation Scores` directory for performance insights.
+5. Find more details in the `SMA_Final_Report` regarding evaluated scores and the datasets used
 
 ## Usage 🧾
 
@@ -46,10 +47,11 @@ If you want to replicate the project or work with the provided code, follow thes
 
 ## Acknowledgments 🙏
 
-- Any external resources, libraries, or tools that were used in the project.
+🙌 We would like to extend our gratitude to the following individuals and organizations for their valuable contributions and support throughout this project:
 
-## Contact 📞
+- **Hugging Face Transformers** for providing state-of-the-art pre-trained language models and tools that made my exploration and fine-tuning process more efficient.
 
-- Provide contact information for inquiries and support.
+- **OpenAI** for developing and sharing the GPT-3.5-based assistant that provided guidance and assistance during my work.
 
-Enjoy exploring and utilizing this NLP Text Summarization project! 🌟
+
+Enjoy exploring and utilizing this project! 🌟
