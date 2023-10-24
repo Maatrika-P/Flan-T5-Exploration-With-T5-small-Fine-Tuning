@@ -1,4 +1,4 @@
-# T5-Exploration-With-Flan-T5-Fine-Tuning 📚
+# Flan-T5 Exploration With T5-small Fine Tuning 📚
 
 This repository contains code and resources for an NLP project focused on text summarization using Flan-T5 and fine-tuning the T5-Small model. The project is organized into several directories and sections, each serving a specific purpose.
 
